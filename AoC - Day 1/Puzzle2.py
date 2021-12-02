@@ -24,8 +24,6 @@ for x in range(depthLength):
         summedDepth = 0
     counter = 0
     
-
-
 # Iterate through all numbers in depths array
 for x in summedDepthsData:
     currentDepth = x

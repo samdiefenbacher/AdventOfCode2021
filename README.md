@@ -6,7 +6,8 @@
     - Fun puzzle!
 - [x] Day 2
     - A Fun, but rather easy puzzle in my opinion.
-- [ ] Day 3
+- [x] Day 3
+    - Puzzle 1 was easy, but puzzle 2 just about killed me... Code is very sloppy, but I got the answer! :) 
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6

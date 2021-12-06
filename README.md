@@ -8,7 +8,8 @@
     - A Fun, but rather easy puzzle in my opinion.
 - [x] Day 3
     - Puzzle 1 was easy, but puzzle 2 just about killed me... Code is very sloppy, but I got the answer! :) 
-- [ ] Day 4
+- [X] Day 4
+    - I only got the first half of the puzzle... I was unable to get the correct answer on the second puzzle after many attemps :/
 - [ ] Day 5
 - [ ] Day 6
 - [ ] Day 7

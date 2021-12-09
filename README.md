@@ -11,7 +11,8 @@
 - [X] Day 4
     - I only got the first half of the puzzle... I was unable to get the correct answer on the second puzzle after many attemps :/
 - [ ] Day 5
-- [ ] Day 6
+- [x] Day 6
+    - Puzzle 1 was easy! But puzzle two required some better memory management and datastructures. Fun overall... 
 - [ ] Day 7
 - [ ] Day 8 
 - [ ] Day 9
